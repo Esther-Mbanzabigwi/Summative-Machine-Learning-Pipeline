@@ -11,6 +11,9 @@ This project implements solution to detect plant diseases from images. It includ
 - A deployment package (public URL with Docker, mobile app, or desktop app).
 - Flood request simulation to test system performance.
 
+## **Dataset**
+
+[Plant diseases dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 ---
 
 ## **Demo**
