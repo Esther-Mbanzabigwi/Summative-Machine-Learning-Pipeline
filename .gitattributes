@@ -1,0 +1,4 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+models/best_checkpoint.pkl filter=lfs diff=lfs merge=lfs -text
+models/best_checkpoint.pth filter=lfs diff=lfs merge=lfs -text
