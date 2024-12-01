@@ -78,7 +78,7 @@ The Jupyter Notebook contains:
 
 ## **Model Files**
 - **Pickle File (.pkl)**: [Model File](./model/best_checkpoint.pkl)
-- **TensorFlow File (.ptf)**: [Model File](./model/best_checkpoint.pth)
+- **Pytorch File (.pth)**: [Model File](./model/best_checkpoint.pth)
 
 ---
 
