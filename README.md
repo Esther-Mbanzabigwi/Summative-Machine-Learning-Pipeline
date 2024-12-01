@@ -2,7 +2,10 @@
 --------------------------------------------------------------------
 
 ## **Project Description**
-This project implements a machine learning-based solution to detect plant diseases from images. It includes:
+
+The Plant Disease Recognition System is an advanced machine learning platform designed to assist farmers, agricultural experts, and researchers in identifying diseases in plants with precision and ease. Leveraging state-of-the-art deep learning models, this platform processes plant images and provides accurate disease classifications, empowering users to take timely and informed actions to protect crop health and maximize agricultural yield.
+
+This project implements solution to detect plant diseases from images. It includes:
 - Preprocessing steps for image data.
 - Model training and testing.
 - A deployment package (public URL with Docker, mobile app, or desktop app).
