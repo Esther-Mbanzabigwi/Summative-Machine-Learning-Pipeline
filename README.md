@@ -17,7 +17,7 @@ This project implements solution to detect plant diseases from images. It includ
 ---
 
 ## **Demo**
-- **Video Demo**: [YouTube Demo Link](https://youtu.be/your-video-link)  
+- **Video Demo**: [YouTube Demo Link](https://www.loom.com/share/eb05a486cb61422d922b6fad55078808?sid=3e74c0d8-6add-4e84-aa5e-4c3024a95f49)  
 - **Deployed URL (if applicable)**: [Plant Disease Recognition System](https://summative-mlop.onrender.com/)
 
 ---
